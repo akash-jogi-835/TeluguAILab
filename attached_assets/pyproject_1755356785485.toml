@@ -1,0 +1,25 @@
+[project]
+name = "ocr-llm-app"
+version = "0.1.0"
+description = "Streamlit app for OCR (Telugu + English) with NLP and optional LLM integration"
+requires-python = ">=3.9"
+
+dependencies = [
+    "streamlit",
+    "pillow",
+    "numpy",
+    "opencv-python",
+    "pdf2image",
+    "pytesseract",
+    "openai>=1.40.0",
+    "requests",
+    "transformers>=4.55.2",
+]
+
+[project.optional-dependencies]
+llm-local = [
+    "transformers>=4.43.0",
+]
+
+[tool.uv]
+# ensures lockfile use
