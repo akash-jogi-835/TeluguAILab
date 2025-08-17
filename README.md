@@ -4,6 +4,10 @@
 
 This is a Streamlit web application that performs Optical Character Recognition (OCR) on Telugu and English text from images and PDFs, followed by Natural Language Processing operations like summarization and question-answering. The system supports both local processing and cloud-based LLM integration for advanced text analysis.
 
+## To Access
+
+https://teluguailab-pq6n8sakhymbp2ay3tayqp.streamlit.app/
+
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
