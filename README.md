@@ -60,3 +60,6 @@ Preferred communication style: Simple, everyday language.
 ### Optional Services
 - **OpenAI API**: Cloud-based language model service requiring API key
 - **CUDA**: Optional GPU acceleration for local transformer models
+
+  ### Working
+  <img width="1920" height="931" alt="image" src="https://github.com/user-attachments/assets/550165af-6636-4fe0-946f-05b8e9219fb1" />
